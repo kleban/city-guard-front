@@ -781,6 +781,10 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
+	background-image: url("../images/bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
 	background-color: #242424;
 }
 
